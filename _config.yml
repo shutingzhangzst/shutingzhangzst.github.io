@@ -12,9 +12,9 @@ title                    : "&#160;&#160;&#160;&#160;&#160;&#160; Home Page &#160
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://shuting-zhang.github.io"
+url                      : "https://shutingzhangzst.github.io"
 baseurl                  : ""
-repository               : "shutingstar7/shutingstarzhang.github.io"
+repository               : "shutingzhangzst/shutingstarzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,8 @@ author:
   bio              : "PhD Candidate"
   employer         : "National University of Singapore"
   email            : "shuting.zhang@u.nus.edu"
-#  orcid            : "https://orcid.org/0009-0000-5124-0619"
+  orcid            : "https://orcid.org/0009-0000-5124-0619"
+ # linkedin         : "shuting-zhang-777kkwbz33"
 
 
 # Academic websites
