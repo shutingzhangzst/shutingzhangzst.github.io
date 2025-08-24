@@ -27,10 +27,11 @@ author:
   bio              : "PhD Candidate"
   employer         : "National University of Singapore"
   email            : "shuting.zhang@u.nus.edu"
+  orcid            : "https://orcid.org/0009-0000-5124-0619"
 
 
 # Academic websites
-orcid            : "https://orcid.org/0009-0000-5124-0619"
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
