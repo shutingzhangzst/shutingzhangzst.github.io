@@ -1,18 +1,16 @@
-# Authors
+name: "Shuting Zhang"
+email: "shuting.zhang@u.nus.edu"
+location: "Singapore"
+avatar: "profile.jpg"
+bio: "PhD Candidate in Real Estate at NUS Business School"
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+links:
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:shuting.zhang@u.nus.edu"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/shutingzhang/"
+  - label: "Google Scholar"
+    icon: "ai ai-google-scholar"
+    url: "https://scholar.google.com/citations?user=XXXXX"

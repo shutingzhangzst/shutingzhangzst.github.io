@@ -28,10 +28,13 @@ author:
   employer         : "National University of Singapore"
   email            : "shuting.zhang@u.nus.edu"
 
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/shutingzhang/"
 
 
 # Academic websites
-# orcid            : "http://orcid.org/yourorcidurl"
+orcid            : "https://orcid.org/0009-0000-5124-0619"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

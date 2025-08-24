@@ -9,12 +9,19 @@ redirect_from:
 ---
 
 
-Welcome!
+Welcome to my website!
 
 
 
 ---
-I am a PhD candidate at NUS Business School, and I am visiting the Department of Finance of UT McCombs Business School. My research interests lie in urban economics, real estate, and applied microeconomics, with a particular focus on infrastructure, land and housing prices, and sustainability.
+I am a Ph.D. candidate in the Department of Real Estate at the National University of Singapore (NUS) Business School, currently on the 2025–26 job market.
+
+In 2024–25, I was a visiting scholar at the Department of Finance, McCombs School of Business, University of Texas at Austin. I am also serving as a short-term consultant at the World Bank Group.
+
+My research interests lie in urban economics, real estate, and applied microeconomics, with a particular focus on infrastructure, land and housing markets, and sustainability.
+
+You can contact me at [shuting.zhang@u.nus.edu](mailto:shuting.zhang@u.nus.edu) or [shutingzhang.zst@gmail.com](mailto:shutingzhang.zst@gmail.com).
+
 
 
 
