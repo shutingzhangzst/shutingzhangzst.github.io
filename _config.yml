@@ -108,6 +108,9 @@ include:
   - _pages
   - files
 exclude:
+  # --- CVs taken offline; remove these two lines to restore ---
+  - files/CV_Shuting_Zhang.pdf
+  - "files/2025_Shuting Zhang_CV.pdf"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -163,9 +166,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
+# --- disabled; uncomment to restore ---
+#  research:
+#    output: true
+#    permalink: /:collection/:path/
 #   teaching:
 #    output: true
 #    permalink: /:collection/:path/

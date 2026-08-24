@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+published: false   # disabled; set true (or delete) to restore
 ---
 
 ### Tutorial Instructor
